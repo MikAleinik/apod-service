@@ -1,0 +1,12 @@
+#root {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+.card__header:nth-child(1) {
+    width: max-content;
+}

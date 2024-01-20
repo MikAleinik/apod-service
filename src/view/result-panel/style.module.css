@@ -1,0 +1,7 @@
+.default {
+    width: 100%;
+}
+
+.default>:nth-child(1) {
+    max-width: 200px;
+}
