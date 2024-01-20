@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/apod-service/static/css/main.437f297a.css",
-    "main.js": "/apod-service/static/js/main.0dca2c87.js",
+    "main.css": "/apod-service/static/css/main.f33ad11e.css",
+    "main.js": "/apod-service/static/js/main.9f2d4d13.js",
     "index.html": "/apod-service/index.html",
-    "main.437f297a.css.map": "/apod-service/static/css/main.437f297a.css.map",
-    "main.0dca2c87.js.map": "/apod-service/static/js/main.0dca2c87.js.map"
+    "main.f33ad11e.css.map": "/apod-service/static/css/main.f33ad11e.css.map",
+    "main.9f2d4d13.js.map": "/apod-service/static/js/main.9f2d4d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.437f297a.css",
-    "static/js/main.0dca2c87.js"
+    "static/css/main.f33ad11e.css",
+    "static/js/main.9f2d4d13.js"
   ]
 }
